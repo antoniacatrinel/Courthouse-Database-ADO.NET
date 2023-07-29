@@ -3,7 +3,7 @@
 # [Courthouse Database](https://github.com/antoniacatrinel/Courthouse-Database-ADO.NET/tree/main/Courthouse%20Database)
 
 TSQL database used for managing a courthouse (judges, prosecutors, attorneys, court rooms, trails, cases, lawsuits, evidence, staff etc.). 
-For more details, check: [Courthouse Databse TSQL](https://github.com/antoniacatrinel/Courthouse-Database-TSQL).
+For more details, check: [Courthouse Database TSQL](https://github.com/antoniacatrinel/Courthouse-Database-TSQL).
 
 # [Courthouse Database ADO.NET](https://github.com/antoniacatrinel/Courthouse-Database-ADO.NET/tree/main/Courthouse%20WindowsForms%20ADO.NET)
 
